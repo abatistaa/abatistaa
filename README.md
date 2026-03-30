@@ -3,7 +3,7 @@ Profissional em constante evolução, unindo tecnologia, saúde e educação par
 Minha atuação é pautada pela **Governança Ética de Dados** e pela busca por excelência técnica.
 
 ## 🛠️ Tech & AI
-Governance (Bootcamp Accenture)
+Governance (Bootcamp Accenture). 
 Atualmente, foco no desenvolvimento de soluções utilizando **IA Generativa**, **Python** e **AWS**.
 Meu diferencial reside na aplicação do **Escudo de Autenticidade**, garantindo integridade e segurança em cada entrega técnica.
 
